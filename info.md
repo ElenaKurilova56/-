@@ -19,3 +19,6 @@ git commit -am “message” - git add + git commit (Работает тольк
 + **git checkout master** – вернуться к актуальному состоянию и продолжить работу (git checkout main)
 
 + **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
+
+![картинка](commit.jpg)
+
