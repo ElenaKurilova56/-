@@ -23,3 +23,5 @@ git commit -am “message” - git add + git commit (Работает тольк
 ![картинка](commit.jpg)
 
 + **git branch** – посмотреть список веток в репозитории
+
++ **git branch** <название ветки> – создать новую ветку
