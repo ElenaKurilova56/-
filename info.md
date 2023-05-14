@@ -23,3 +23,9 @@ git commit -am “message” - git add + git commit (Работает тольк
 ![картинка](commit.jpg)
 
 git branch – посмотреть список веток в репозитории
+
++ **git branch -d** <название ветки> – удалить ветку
+
+	git log –graph - визуализирует коммиты
+
+	git checkout -b <название ветки> -> Создание и переход в новую ветку
