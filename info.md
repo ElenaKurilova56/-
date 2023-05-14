@@ -23,3 +23,5 @@ git commit -am “message” - git add + git commit (Работает тольк
 ![картинка](commit.jpg)
 
 git branch – посмотреть список веток в репозитории
+
++ **git checkout** <название ветки> – переход к другой ветке
